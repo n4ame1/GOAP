@@ -1,0 +1,12 @@
+[gd_resource type="Resource" script_class="Action" load_steps=2 format=3 uid="uid://cjbd5gsn3yxsj"]
+
+[ext_resource type="Script" path="res://action.gd" id="1_d4dvw"]
+
+[resource]
+script = ExtResource("1_d4dvw")
+id = "Cook"
+type_completion = 4
+value_completion = true
+type_condition = 1
+value_condition = true
+weight = 2

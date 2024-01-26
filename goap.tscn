@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dpgdspdx2tonk"]
+
+[ext_resource type="Script" path="res://goap.gd" id="1_4nee2"]
+
+[node name="GOAP" type="Node2D"]
+script = ExtResource("1_4nee2")
